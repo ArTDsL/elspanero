@@ -1,0 +1,10 @@
+{
+    "is_new": false,
+    "last_send": 0,
+    "last_send_package_ts": 0,
+    "next_send_package_ts": 0,
+    "send_limit": 200,
+    "email_perCharge": 1000,
+    "mail_subject": "Subject Test",
+    "sender_name": "ElSpanero"
+}
