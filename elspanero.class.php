@@ -197,6 +197,7 @@ Class ElSpanero_Class{
 					$mail->SMTPDebug = 0;
 					$mail->isSMTP();
 					$mail->Host = "smtp.gmail.com";
+					$mail->SMTPAuth = true;
 					$mail->Username = $username;
 					$mail->password = $password;
 					$mail->SMTPSecure = "ssl";
