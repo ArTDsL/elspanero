@@ -1,5 +1,12 @@
 # ElSpanero
 
+<hr>
+
+This repo is achieved because most of issues regarding this security breach has been fixed ^^/
+
+<hr>
+
+
 **[PT-BR]**
 
 Esse projeto foi feito para  provar um ponto sobre spans de e-mail a um amigo, nesse caso o mesmo é para **USO EDUCACIONAL**!  **EU NÃO**  ajudo,  faço apologia, compactuo com o uso desse código  para fins ilegais, caso você queira fazer isso faça assumindo a responsábilidade e risco pelos seus atos.
